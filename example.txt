@@ -1,0 +1,16 @@
+1. break the sentence into individual words
+2. break the dictionary into types
+3. get the values after each type
+4. check if the individual word is in the value
+5. put the type follow by the word into a tuple
+6. put the tuple into a list that appends the tuples from each word
+
+
+
+numbers
+-------
+
+1. break the sentence into individual words
+2. check if number can be converted
+3. if it can be converted then set the tuple to have the type and the number
+4. if it can't be converted then continue as normal
